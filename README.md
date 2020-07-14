@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am Paul A. Gureghian .
 
 Here are some facts about me:
