@@ -14,6 +14,4 @@ Here are some facts about me:
 
 - 💬 Ask me about: 
 
-- 📫 How to reach me: 
-
-- ⚡ Fun fact:  
+- 📫 How to reach me:   
