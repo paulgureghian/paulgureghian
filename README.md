@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 I am Paul A. Gureghian .
 
 Here are some facts about me:
@@ -17,7 +16,4 @@ Here are some facts about me:
 
 - 📫 How to reach me: 
 
-- 😄 Pronouns: 
-
-- ⚡ Fun fact: 
-
+- ⚡ Fun fact:  
