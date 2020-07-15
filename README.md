@@ -1,11 +1,11 @@
-- 🔭 I’m currently working on:  
+- I am skilled in Ruby, C++, Python.   
 
-- 🌱 I’m currently learning: 
+- I am skilled in Git and Github. 
 
-- 👯 I’m looking to collaborate on: 
+- I am skilled on Windows, MacOS, Linux. 
 
-- 🤔 I’m looking for help with:
+- I am skilled in Terminal, Command Line Tools.
 
-- 💬 Ask me about: 
+- I am skilled in Visual Studio Code. 
 
-- 📫 How to reach me:   
+- I am skilled in Anaconda, Jupyter Note Books, Google Colab.   
